@@ -9,8 +9,11 @@
 &nbsp; ![Drizzle ORM](https://img.shields.io/badge/Drizzle%20ORM-E34F26?style=flat&logo=drizzle&logoColor=white)
 
 ## 🎯Screenshots
+<img src="[https://img.shields.io/badge/Login%20Page-8A2BE2](https://img.shields.io/badge/Login%20Page-8A2BE2?style=flat&logo=google&logoColor=white)" alt="Login Page" width="100">
 
 ![Login Page](https://github.com/user-attachments/assets/86116041-9688-4b5f-ad3d-d85a9daecc43)
+
+
 
 
 ## 🎯Live Demo
