@@ -1,6 +1,9 @@
 
 # 💻🎙️PrepTalk - An Interview AI
 
+![preptalk-logo](https://github.com/user-attachments/assets/fbefe155-9eec-46ab-9096-f4aabc065439)
+
+
 *PrepTalk* is an AI-powered interview preparation platform that helps students and mentors train effectively. It provides a simulated interview experience with AI-driven feedback on responses, clarity, and confidence. Users receive personalized insights to improve their performance and enhance their skills.
 
 ## 🎯TechStack
