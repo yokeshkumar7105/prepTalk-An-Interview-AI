@@ -6,6 +6,8 @@
 
 *PrepTalk* is an AI-powered interview preparation platform that helps students and mentors train effectively. It provides a simulated interview experience with AI-driven feedback on responses, clarity, and confidence. Users receive personalized insights to improve their performance and enhance their skills.
 
+Check Out the Platform⏩: https://prep-talk-an-interview-ai.vercel.app/dashboard
+
 ## 🎯TechStack
 
 ![Next.js](https://img.shields.io/badge/Next.js-4845d2?style=flat&logo=next.js&logoColor=white) &nbsp;![Gemini](https://img.shields.io/badge/Gemini-ff66c4?style=flat&logo=google-gemini&logoColor=white) &nbsp; ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
