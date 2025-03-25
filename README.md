@@ -1,5 +1,5 @@
 
-# 💻🎙️PrepTalk - An Interview AI
+# <p class="top">💻🎙️PrepTalk - An Interview AI</p>
 
 ![preptalk-logo](https://github.com/user-attachments/assets/fbefe155-9eec-46ab-9096-f4aabc065439)
 
@@ -74,4 +74,6 @@ Tables will be created and visible in Drizzle studio.
 ```
 npm run dev
 ```
+
+<a href="#top">Wanna Go Top</a>
 
