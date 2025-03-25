@@ -75,5 +75,5 @@ Tables will be created and visible in Drizzle studio.
 npm run dev
 ```
 
-<a href="#top">Wanna Go Top</a>
+<a href="#top">Wanna Go Top⏫</a>
 
