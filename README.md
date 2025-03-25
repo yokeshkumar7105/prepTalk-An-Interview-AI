@@ -9,12 +9,25 @@
 &nbsp; ![Drizzle ORM](https://img.shields.io/badge/Drizzle%20ORM-E34F26?style=flat&logo=drizzle&logoColor=white)
 
 ## 🎯Screenshots
-<img src="[https://img.shields.io/badge/Login%20Page-8A2BE2](https://img.shields.io/badge/Login%20Page-8A2BE2?style=flat&logo=google&logoColor=white)" alt="Login Page" width="100">
+<img src="https://img.shields.io/badge/Login%20Page-8A2BE2?style=flat&logoColor=white" alt="Login Page" width="100">
 
 ![Login Page](https://github.com/user-attachments/assets/86116041-9688-4b5f-ad3d-d85a9daecc43)
 
+<img src="https://img.shields.io/badge/DashBoard-8A2BE2?style=flat&logoColor=white" alt="Login Page" width="100">
 
+![DashBoard](https://github.com/user-attachments/assets/6ee30b61-b909-4f6f-a2ad-341f312174de)
 
+<img src="https://img.shields.io/badge/Start%20Interview-8A2BE2?style=flat&logoColor=white" alt="Login Page" width="100">
+
+![image](https://github.com/user-attachments/assets/bbb2ca80-0439-426a-a628-2e6c0936bf8e)
+
+<img src="https://img.shields.io/badge/Interview%20Process-8A2BE2?style=flat&logoColor=white" alt="Login Page" width="100">
+
+![image](https://github.com/user-attachments/assets/511d865b-f50a-4081-988a-cd055d251f44)
+
+<img src="https://img.shields.io/badge/Feedback%20Page-8A2BE2?style=flat&logoColor=white" alt="Login Page" width="100">
+
+![image](https://github.com/user-attachments/assets/8a104a21-3da2-4bf5-aabe-23cc6e4ce946)
 
 ## 🎯Live Demo
 
