@@ -77,5 +77,73 @@ Tables will be created and visible in Drizzle studio.
 npm run dev
 ```
 
+## 🎯File Structure
+```
+├── .gitignore
+├── README.md
+├── app
+    ├── (auth)
+    │   ├── sign-in
+    │   │   └── [[...sign-in]]
+    │   │   │   └── page.jsx
+    │   └── sign-up
+    │   │   └── [[...sign-up]]
+    │   │       └── page.jsx
+    ├── dashboard
+    │   ├── _components
+    │   │   ├── AddNewInterview.jsx
+    │   │   ├── Header.jsx
+    │   │   ├── InterviewItemCard.jsx
+    │   │   └── InterviewList.jsx
+    │   ├── interview
+    │   │   └── [interviewId]
+    │   │   │   ├── feedback
+    │   │   │       └── page.jsx
+    │   │   │   ├── page.jsx
+    │   │   │   └── start
+    │   │   │       ├── _components
+    │   │   │           ├── QuestionsSection.jsx
+    │   │   │           └── RecordAnswerSection.jsx
+    │   │   │       └── page.jsx
+    │   ├── layout.jsx
+    │   └── page.jsx
+    ├── favicon.ico
+    ├── globals.css
+    ├── layout.js
+    └── page.js
+├── components.json
+├── components
+    └── ui
+    │   ├── button.jsx
+    │   ├── collapsible.jsx
+    │   ├── dialog.jsx
+    │   ├── input.jsx
+    │   ├── sonner.jsx
+    │   └── textarea.jsx
+├── drizzle.config.js
+├── jsconfig.json
+├── lib
+    └── utils.js
+├── middleware.js
+├── next.config.mjs
+├── package-lock.json
+├── package.json
+├── postcss.config.mjs
+├── public
+    ├── frontimg.jpeg
+    ├── next.svg
+    ├── prep.png
+    ├── vercel.svg
+    └── webcam.png
+├── tailwind.config.js
+├── tsconfig.json
+└── utils
+    ├── GeminiAIModal.js
+    ├── db.js
+    └── schema.js
+
+```
+
+
 <a href="#top">Wanna Go Top⏫</a>
 
